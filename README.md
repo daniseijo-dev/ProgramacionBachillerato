@@ -1,0 +1,1 @@
+Al final solo he encontrado el Excel con el programa de bolsa. Activar macros.
